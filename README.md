@@ -1,5 +1,5 @@
 # vision
-This is a  vehile detection project using Computer Vision
+This is a vehicle detection project using Computer Vision
 
 Here I used background subtractions methods of OpenCV Library of Python and some morphological transformation for accuracy.
 But this is for only static cameras. 
